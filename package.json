@@ -15,9 +15,12 @@
   "author": "Lucy Fox",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.14.0"
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
   },
   "devDependencies": {
-    "mocha": "^3.0.2"
+    "mocha": "^3.0.2",
+    "request": "^2.74.0"
   }
 }
